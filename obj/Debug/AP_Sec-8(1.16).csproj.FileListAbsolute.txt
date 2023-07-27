@@ -1,0 +1,8 @@
+C:\Users\basan\OneDrive\Desktop\Training\Day1\AP_Sec-8(1.16)\AP_Sec-8(1.16)\bin\Debug\AP_Sec-8(1.16).exe.config
+C:\Users\basan\OneDrive\Desktop\Training\Day1\AP_Sec-8(1.16)\AP_Sec-8(1.16)\bin\Debug\AP_Sec-8(1.16).exe
+C:\Users\basan\OneDrive\Desktop\Training\Day1\AP_Sec-8(1.16)\AP_Sec-8(1.16)\bin\Debug\AP_Sec-8(1.16).pdb
+C:\Users\basan\OneDrive\Desktop\Training\Day1\AP_Sec-8(1.16)\AP_Sec-8(1.16)\obj\Debug\AP_Sec-8(1.16).csproj.AssemblyReference.cache
+C:\Users\basan\OneDrive\Desktop\Training\Day1\AP_Sec-8(1.16)\AP_Sec-8(1.16)\obj\Debug\AP_Sec-8(1.16).csproj.SuggestedBindingRedirects.cache
+C:\Users\basan\OneDrive\Desktop\Training\Day1\AP_Sec-8(1.16)\AP_Sec-8(1.16)\obj\Debug\AP_Sec-8(1.16).csproj.CoreCompileInputs.cache
+C:\Users\basan\OneDrive\Desktop\Training\Day1\AP_Sec-8(1.16)\AP_Sec-8(1.16)\obj\Debug\AP_Sec-8(1.16).exe
+C:\Users\basan\OneDrive\Desktop\Training\Day1\AP_Sec-8(1.16)\AP_Sec-8(1.16)\obj\Debug\AP_Sec-8(1.16).pdb
